@@ -11,9 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
- LET´S DO THIS!
-
 - 👋 Hi, I’m Bryan Paul Delgado Yela. You can call me as Paul. 
+- 🧁 My birthday is Nov 10, 1999.
 - 👀 I’m interested in vidoegames, music, IA and web development. 
 - 🌱 I’m currently learning many languages and methods to become an important developer. My wish and task is become a great game developer. 
 - 💞️ I’m looking to collaborate on HTML, CSS, C++, Python, JS and games. 
