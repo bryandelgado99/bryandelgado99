@@ -18,4 +18,10 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on HTML, CSS, C++, Python, JS and games. 
 - 📫 How to reach with my mail (bryand9970@gmail.com) or with my phone number (+593987500764).
 
+✔️ Lenguajes Empleados
 
+- HTML5 💻
+- CSS3 🖌️
+- C++ 🔡
+- Python 🐍
+- Javascript 📃
