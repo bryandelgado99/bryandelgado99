@@ -3,6 +3,7 @@ bryandelgado99/bryandelgado99 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+ LET´S DO THIS!
 
 - 👋 Hi, I’m Bryan Paul Delgado Yela. You can call me as Paul. 
 - 👀 I’m interested in vidoegames, music, IA and web development. 
