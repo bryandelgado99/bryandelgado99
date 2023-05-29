@@ -10,7 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 💫 About Me:
-<br>👋 Hi, I’m Bryan Paul Delgado Yela. You can call me as Paul.<br>🧁 My birthday is Nov 10, 1999.<br>👀 I’m interested in vidoegames, music, IA and web development.<br>🌱 I’m currently learning many languages and methods to become an important developer. My wish and task is become a great game developer.<br>💞️ I’m looking to collaborate on HTML, CSS, C++, Python, JS and games.<br>📫 How to reach with my mail (bryand9970@gmail.com) or with my phone number (+593987500764).<br>🖥️ My Replit profile is https://replit.com/@Bryan-PaulPaul1<br>✔️ Lenguajes Empleados<br>
+<br>👋 Hi, I’m Bryan Paul Delgado Yela. You can call me as Paul.<br>🧁 My birthday is Nov 10, 1999.<br>👀 I’m interested in vidoegames, music, IA and web development.<br>🌱 I’m currently learning many languages and methods to become an important developer. My wish and task is become a great game developer.<br>💞️ I’m looking to collaborate on HTML, CSS, C++, Python, JS and games.<br>📫 How to reach with my mail (bryand9970@gmail.com) or with my phone number (+593987500764).<br>🖥️ My Replit profile is https://replit.com/@Bryan-PaulPaul1
+
+<br>✔️ Lenguajes Empleados:
 <br>HTML5 💻
 <br>CSS3 🖌️
 <br>C++ 🔡
