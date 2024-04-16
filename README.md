@@ -35,11 +35,8 @@ You can click the Preview link to take a look at your changes.
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## Know about me on Spotify
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=12171063087&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=12171063087&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-</a>
-</p>
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171063087&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bryandelgado99&icon=6&color=4)](https://visitcount.itsvg.in)
