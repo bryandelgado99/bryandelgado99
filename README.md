@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ## Know about me on Spotify
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171063087&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12171063087&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)
 
 
 ---
