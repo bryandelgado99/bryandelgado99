@@ -1,5 +1,3 @@
-<img align="left" height="200" src="https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif"  />
-
 ###
 
 <h1 align="center">¡Hola a todos! Bienvenidos a mi perfil de GitHub</h1>
