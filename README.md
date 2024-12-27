@@ -1,16 +1,14 @@
-###
-
-<h1 align="center">¡Hola a todos! Bienvenidos a mi perfil de GitHub</h1>
+<h1 align="center">Hello everyone! Welcome to my GitHub profile</h1>
 
 ###
 
-<p align="left">Un gusto conocerte, coder! Me llamo Bryan Paul Delgado pero, puedes llamarme Paul. Soy un apasionado desarrollador JUNIOR, proveniente de Quito, Ecuador, del ámbito móvil que busca crear, innovar y pulir sus habilidades y los proyectos en los que trabajo.</p>
+<p align="left">Nice to meet you, coder! My name is Bryan Paul Delgado, but you can call me Paul. I am a passionate JUNIOR developer from Quito, Ecuador, focused on mobile development, aiming to create, innovate, and refine my skills and the projects I work on.</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">Contáctame</h3>
+<h3 align="left">Contact Me</h3>
 
 ###
 
@@ -36,17 +34,17 @@
 
 ###
 
-<h3 align="left">Mis Skills</h3>
+<h3 align="left">My Skills</h3>
 
 ###
 
-<p align="left">Mi conocimiento se centra en un gran conjunto de tecnologías relacionadas a la programación como al diseño.</p>
+<p align="left">My knowledge spans a wide range of programming and design-related technologies.</p>
 
 ###
 
 <br clear="both">
 
-<h4 align="left">- Skills Tecnológicas</h4>
+<h4 align="left">- Technological Skills</h4>
 
 ###
 
@@ -80,7 +78,7 @@
 
 ###
 
-<h4 align="left">- Entornos</h4>
+<h4 align="left">- Environments</h4>
 
 ###
 
@@ -98,7 +96,7 @@
 
 ###
 
-<h4 align="left">- Skills de Diseño</h4>
+<h4 align="left">- Design Skills</h4>
 
 ###
 
@@ -112,20 +110,20 @@
 
 ###
 
-<h4 align="left">Mis Estadísticas</h4>
+<h4 align="left">My Stats</h4>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bryandelgado99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryandelgado99&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bryandelgado99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=bryandelgado99&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bryandelgado99&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<h5 align="left">¿Visitas mi perfil?</h5>
+<h5 align="left">Profile Visits?</h5>
 
 ###
 
