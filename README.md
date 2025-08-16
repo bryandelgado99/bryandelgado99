@@ -105,9 +105,15 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo"  />
+  <img src="https://cdn.simpleicons.org/affinitydesigner" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/affinityphoto" height="40" alt="aftereffects logo"  />
 </div>
 
 ###
