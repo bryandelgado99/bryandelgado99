@@ -1,0 +1,49 @@
+name: cards
+
+# Regenerates assets/card-stats-*.svg and assets/card-langs-*.svg from the live
+# GitHub API and commits them. Nothing here is fetched at README render time, so
+# the cards keep working even when the shared public card services are down.
+#
+# The default GITHUB_TOKEN is enough for stars / repos / followers / languages.
+# Add a PAT as the STATS_TOKEN secret to also get the contribution and streak
+# tiles, which need the GraphQL API.
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/cards.py"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Render cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/cards.py --user ${{ github.repository_owner }} --out assets
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/card-*.svg
+          if git diff --cached --quiet; then
+            echo "cards unchanged"
+          else
+            git commit -m "chore: refresh stats cards"
+            git push
+          fi

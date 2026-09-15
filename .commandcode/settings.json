@@ -2,7 +2,15 @@
   "permissions": {
     "allow": [
       "powershell",
-      "Shell(agent-browser:*)"
+      "Shell(agent-browser:*)",
+      "Shell(node -v)",
+      "Shell(npm:*)",
+      "Shell(python -V)",
+      "Shell(py:*)",
+      "Shell(where:*)",
+      "Shell(node --version)",
+      "Shell(powershell -NoProfile -Command \"Get-Content -Raw assets\\card-stats-dark.svg\")",
+      "Shell(python -c \"import yaml,sys; yaml.safe_load(open('.github/workflows/cards.yml',encoding='utf-8')); print('YAML OK')\")"
     ],
     "deny": [],
     "defaultMode": "default"
