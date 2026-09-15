@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="364" viewBox="0 0 900 364" role="img" aria-label="paul@delgado: ~/about">
+  <defs>
+    <clipPath id="frame">
+      <rect x="0" y="0" width="900" height="364" rx="14"/>
+    </clipPath>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f7f3f1"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.86" cy="0.02" r="0.95">
+      <stop offset="0" stop-color="#dc2626" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#dc2626" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="364" fill="url(#bg)"/>
+    <rect width="900" height="364" fill="url(#glow)"/>
+
+    <rect x="0" y="0" width="900" height="46" fill="#f0e9e6"/>
+    <line x1="0" y1="46" x2="900" y2="46" stroke="#e6dbd7" stroke-width="1"/>
+
+    <circle cx="30" cy="23" r="7" fill="#dc2626"/>
+    <circle cx="54" cy="23" r="7" fill="#f59e0b"/>
+    <circle cx="78" cy="23" r="7" fill="#16a34a"/>
+
+    <text x="450" y="28" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#5d4a4a">paul@delgado — ~/about</text>
+
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="16">
+      <text x="40" y="100" fill="#160b0d"><tspan fill="#dc2626">$ </tspan>whoami</text>
+      <text x="64" y="130" fill="#5d4a4a">› Bryan Paul Delgado — aka &#34;Paul&#34;</text>
+
+      <text x="40" y="170" fill="#160b0d"><tspan fill="#dc2626">$ </tspan>cat about.txt</text>
+      <text x="64" y="200" fill="#5d4a4a">› Frontend &amp; Mobile Developer — Quito, Ecuador</text>
+
+      <text x="40" y="240" fill="#160b0d"><tspan fill="#dc2626">$ </tspan>stack --focus</text>
+      <text x="64" y="270" fill="#5d4a4a">› Flutter · Dart · Kotlin · Android · React · Astro</text>
+
+      <text x="40" y="310" fill="#160b0d"><tspan fill="#dc2626">$ </tspan>echo $STATUS</text>
+      <text x="64" y="340" fill="#5d4a4a">› Junior dev · building in public · open to collaborate</text>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="899" height="363" rx="14" fill="none" stroke="#e6dbd7" stroke-width="1"/>
+</svg>

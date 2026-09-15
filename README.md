@@ -1,109 +1,85 @@
-<h1 align="center">Hello everyone! Welcome to my GitHub profile</h1>
-
-###
-
-<p align="left">Nice to meet you, coder! My name is Bryan Paul Delgado, but you can call me Paul. I am a passionate JUNIOR developer from Quito, Ecuador, focused on mobile development, aiming to create, innovate, and refine my skills and the projects I work on.</p>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Contact Me</h3>
-
-###
-
-<br clear="both">
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/bryan-delgado-24795520b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="discord.com/bryanpaul99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="bryand9970@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+<!-- VENTANA DE PRESENTACIÓN — edit the text in assets/window-dark.svg and assets/window-light.svg -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/window-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/window-light.svg">
+  <img src="assets/window-dark.svg" width="100%" alt="paul@delgado — ~/about">
+</picture>
+
+<br>
+
+<!-- TAGLINE ANIMADO -->
+<a href="https://github.com/bryandelgado99">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=E11D48&amp;center=true&amp;vCenter=true&amp;width=880&amp;lines=Junior+Developer+%7C+Mobile+%26+Frontend;Flutter+%C2%B7+Dart+%C2%B7+Kotlin+%C2%B7+Android;Building+in+public+from+Quito%2C+Ecuador" alt="typing banner">
+</a>
+
+<br>
+
+<!-- CONTACTO -->
+<a href="https://www.linkedin.com/in/bryan-delgado-24795520b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://pauldelgado.pages.dev"><img src="https://img.shields.io/badge/Portfolio-140B0D?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=e11d48" alt="Portfolio"></a>&nbsp;&nbsp;
+<a href="mailto:bryand9970@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;
+<a href="https://discord.com/users/bryanpaul99"><img src="https://img.shields.io/badge/Discord-140B0D?style=for-the-badge&amp;logo=discord&amp;logoColor=e11d48" alt="Discord"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=bryandelgado99&amp;style=flat&amp;color=e11d48&amp;label=profile+views" alt="profile views">
+
 </div>
 
-###
+---
 
-<h3 align="left">My Skills</h3>
+## Hey, I'm Paul
 
-###
+Nice to meet you, coder! I'm **Bryan Paul Delgado**, a passionate **Junior Developer** from Quito, Ecuador 🇪🇨, focused on **mobile development** — aiming to create, innovate and refine my skills with every project I ship.
 
-<p align="left">My knowledge spans a wide range of programming and design-related technologies.</p>
+- 📱 **Mobile first:** building apps with Flutter, Dart, Kotlin and Android.
+- 🌐 **Also on the web:** React, Vue, Astro and Tailwind for the frontend.
+- 🌱 **Currently:** learning in public, shipping small projects and improving my craft.
+- 🤝 **Open to:** collaboration, junior roles and open-source contributions.
+- 💬 **Talk to me about:** mobile UI, Flutter, or frontend in general — I'm all ears.
+- 🔗 **Portfolio:** [pauldelgado.pages.dev](https://pauldelgado.pages.dev)
 
-###
-
-<br clear="both">
-
-<h4 align="left">- Technological Skills</h4>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="vuejs logo"  />
-</div>
-
-###
-
-<h4 align="left">- Environments</h4>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+
+## my stack
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,androidstudio,java,javascript,nodejs,react,vue,astro,tailwind,python,git,github&amp;perline=7" alt="tech stack">
+
 </div>
 
-###
-
-<h4 align="left">- Design Skills</h4>
-
-###
+<br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+
+### environments &amp; design
+
+<img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux,androidstudio,vscode" alt="environments">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows">&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,photoshop" alt="design tools">
+
 </div>
 
-###
+---
+
+<div align="center">
+
+## numbers don't lie
+
+<img src="https://github-readme-stats.vercel.app/api?username=bryandelgado99&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=090506&amp;title_color=e11d48&amp;icon_color=e11d48&amp;text_color=b8a5a5&amp;border_color=2b1a1d" height="165" alt="GitHub stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryandelgado99&amp;layout=compact&amp;hide_border=true&amp;bg_color=090506&amp;title_color=e11d48&amp;text_color=b8a5a5" height="165" alt="Top languages">
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>` building in public · @bryandelgado99 `</sub>
+
+</div>
